@@ -27,7 +27,7 @@ LoanTap is an online lending platform delivering customized loan products to mil
 loantap-loan-underwriting/
 │
 ├── LoanTap_Case_Study.ipynb     # Complete analysis notebook
-├── logistic_regression.csv      # Dataset (396,030 records × 27 features)
+├── https://drive.google.com/file/d/1ZPYj7CZCfxntE8p2Lze_4QO4MyEOy6_d/view?usp=sharing      # Dataset (396,030 records × 27 features)
 ├── README.md                    # You are here
 │
 └── plots/                       # All generated visualizations
